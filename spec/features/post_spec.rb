@@ -22,4 +22,4 @@ require 'rails_helper'
     expect(page).to have_content('My post title')
     expect(page).to have_content('My post description')
   end
-end 
+end
